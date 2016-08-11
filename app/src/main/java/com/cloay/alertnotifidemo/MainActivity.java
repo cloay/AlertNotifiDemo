@@ -12,7 +12,7 @@ import android.os.Bundle;
  * @ClassName: MainActivity 
  * @Description: 
  * @author cloay Email:shangrody@gmail.com 
- * @date 2014-8-22 ÉÏÎç10:30:31 
+ * @date 2014-8-22 ä¸Šåˆ10:30:31 
  *
  */
 public class MainActivity extends Activity {

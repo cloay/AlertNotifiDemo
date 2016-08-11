@@ -14,7 +14,7 @@ import android.util.Log;
  * @ClassName: MyService 
  * @Description:  
  * @author cloay Email:shangrody@gmail.com 
- * @date 2014-8-22 ÏÂÎç6:20:11 
+ * @date 2014-8-22 ä¸‹åˆ6:20:11 
  *
  */
 public class MyService extends Service {
