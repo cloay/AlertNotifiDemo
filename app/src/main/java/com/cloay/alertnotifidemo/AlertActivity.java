@@ -17,7 +17,7 @@ import android.widget.TextView;
  * @ClassName: AlertActivity 
  * @Description:  
  * @author cloay Email:shangrody@gmail.com 
- * @date 2014-8-22 ÏÂÎç6:20:33 
+ * @date 2014-8-22 ä¸‹åˆ6:20:33 
  *
  */
 public class AlertActivity extends Activity implements OnClickListener{

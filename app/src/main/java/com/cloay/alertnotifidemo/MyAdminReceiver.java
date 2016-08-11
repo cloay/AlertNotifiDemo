@@ -6,7 +6,7 @@ import android.app.admin.DeviceAdminReceiver;
  * @ClassName: MyAdminReceiver 
  * @Description:  
  * @author cloay Email:shangrody@gmail.com 
- * @date 2014-8-22 ÏÂÎç6:21:08 
+ * @date 2014-8-22 ä¸‹åˆ6:21:08 
  *
  */
 public class MyAdminReceiver extends DeviceAdminReceiver{
